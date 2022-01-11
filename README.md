@@ -1,7 +1,7 @@
 # quiz
 
 Technology Used: 
-React Native cli, Firebase Firestore
+React Native CLI, Typescript, Firebase Firestore
 
 Testing Device
 I Phone 13
